@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ladyamethyst811
-- 👀 I’m interested in Data Science and Dat Analysis
+- 👀 I’m interested in Data Science and Data Analysis
 - 🌱 I’m currently learning Python Programing
 
 
